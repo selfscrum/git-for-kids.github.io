@@ -1,0 +1,22 @@
+task , in markdown , in word
+Write text , type keyboard , type keyboard
+Write heading , type # , type <alt>;R;K then scroll with cursor to heading
+, , or Select Home Ribbon; then Styles; then find the proper heading. You might need to clear all styles on your paragraph beforehand. For that; select the little arrow in the Styles section and select "clear all" form the list.
+Create a bullet point , Write * , Write *; then hope that word auto formatting is not smarter than you and destroys your intention by auto-indention.
+Write bold , bracket your text in ** ** , Press Alt; H; 1 before and after the text
+, , or Select Home Ribbon; then Font; then press the B icon. Or double-click the word; then right-click and press the B icon
+Write italics , bracket your text in _ _ , Press Alt; H; 2 before and after the text
+, , or Select Home Ribbon; then Font; then press the I icon. Or double-click the word; then right-click and press the I icon
+Include links , Write [ displayed text ]( the link )  , write the link. Word converts this automatically. Be very careful that you correct the link if you amend the displayed text; Word doesn't do this automatically (I still love the story about the christmas party invitation of our company where our secretary inserted xxx . com as a placeholder for the party venue and forgot to correct it later 😂 (Don't try that link - you can imagine what's in there)
+Include images , Write ![ alternative text ]( link to the image ) , Select Insert Ribbon; then in Illustrations; select "Picture". The identify the file in the Explorer and load it.
+Modify image appearance , Use CSS style , Use proprietary MS Office functions
+Modify Layout , Use CSS style , Use proprietary MS Office functions
+Create graphics , Use a meaningful app for it; like draw.io , Use proprietary MS Office functions
+Review text and add comments , use git. Process Participants need a browser or a terminal. , use proprietary word features. Process participants must have Microsoft Office
+Convert to PDF , use git and an automation flow with pandoc , Save as PDF
+And mailings? And Table of contents? And proofing? , think about the process and automate what you can; far away from people's desktops , Start intense learning of proprietry MS Office functions
+And VBA ...? , same , start individual programming in MS Office and manage the efficiency and compliance risks
+Select an application to write in , any app that reacts to a keyboard , Word; Word Online; or clones (might lose some parts in conversion)
+Switch to a professional layout , learn CSS or ask a web designer , learn Microsoft Word Configuration or ask an office expert
+Search old content , keep your content in a git repo , introduce an enterprise document management system
+Get better at it , Embrace change. Think about how Jeff Bezos would solve your content problem , Avoid all that nerd stuff; optimize your layouts and stay cozy in your Office world
